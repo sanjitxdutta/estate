@@ -82,6 +82,8 @@
 ---
 
 ## 📂 Folder Structure
+
+ ```bash
 estate/
 ├── public/
 ├── src/
@@ -101,6 +103,7 @@ estate/
 ├── LICENSE 
 ├── README.md
 └── package.json
+   ```
 
 ---
 
