@@ -125,3 +125,5 @@ Hosted on Vercel.
 
 ## 🧠 Motivation
 This project was built as part of my Tailwind CSS learning journey. The goal was to practice responsive design, layout building, form integrations, and component styling without relying on prebuilt UI kits.
+
+---
